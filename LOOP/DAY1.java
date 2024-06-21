@@ -37,7 +37,7 @@ public class DAY1 {
 
 
 
-     System.out.println("LOOPS");
+       /* System.out.println("LOOPS");
      System.out.println();
      Scanner sc =new Scanner(System.in);
 
@@ -73,7 +73,12 @@ public class DAY1 {
         System.out.println("hiiiii");
         k++;
 
-       } while(k!=5);
+       } while(k!=5);   */
+
+
+
+
+       
 
     
     }

@@ -13,7 +13,7 @@ public class sum_product {
            pro*=temp;
            k=k/10;}
            int result=pro-sum;
-           System.out.println(result);
+           System.out.println(results);
             
           
         }
